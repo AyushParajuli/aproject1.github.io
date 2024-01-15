@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\college\\HXH\\Projects\\Project#1\\aproject1.github.io\\WebApp\\WebApp.csproj": {}
+    "E:\\college\\HXH\\Projects\\Project#1\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "E:\\college\\HXH\\Projects\\Project#1\\aproject1.github.io\\WebApp\\WebApp.csproj": {
+    "E:\\college\\HXH\\Projects\\Project#1\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\college\\HXH\\Projects\\Project#1\\aproject1.github.io\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "E:\\college\\HXH\\Projects\\Project#1\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "E:\\college\\HXH\\Projects\\Project#1\\aproject1.github.io\\WebApp\\WebApp.csproj",
+        "projectPath": "E:\\college\\HXH\\Projects\\Project#1\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\college\\HXH\\Projects\\Project#1\\aproject1.github.io\\WebApp\\obj\\",
+        "outputPath": "E:\\college\\HXH\\Projects\\Project#1\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
